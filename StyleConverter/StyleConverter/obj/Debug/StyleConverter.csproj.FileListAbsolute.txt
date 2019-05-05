@@ -1,0 +1,10 @@
+C:\Users\Jermayne\source\repos\StyleConverter\StyleConverter\bin\Debug\StyleConverter.exe.config
+C:\Users\Jermayne\source\repos\StyleConverter\StyleConverter\bin\Debug\StyleConverter.exe
+C:\Users\Jermayne\source\repos\StyleConverter\StyleConverter\bin\Debug\StyleConverter.pdb
+C:\Users\Jermayne\source\repos\StyleConverter\StyleConverter\obj\Debug\StyleConverter.csprojAssemblyReference.cache
+C:\Users\Jermayne\source\repos\StyleConverter\StyleConverter\obj\Debug\StyleConverter.Form1.resources
+C:\Users\Jermayne\source\repos\StyleConverter\StyleConverter\obj\Debug\StyleConverter.Properties.Resources.resources
+C:\Users\Jermayne\source\repos\StyleConverter\StyleConverter\obj\Debug\StyleConverter.csproj.GenerateResource.cache
+C:\Users\Jermayne\source\repos\StyleConverter\StyleConverter\obj\Debug\StyleConverter.csproj.CoreCompileInputs.cache
+C:\Users\Jermayne\source\repos\StyleConverter\StyleConverter\obj\Debug\StyleConverter.exe
+C:\Users\Jermayne\source\repos\StyleConverter\StyleConverter\obj\Debug\StyleConverter.pdb
